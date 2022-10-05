@@ -1,0 +1,7 @@
+#vscode
+.vscode/
+
+# esp-ifd
+build/
+sdkconfig
+sdkconfig.old
